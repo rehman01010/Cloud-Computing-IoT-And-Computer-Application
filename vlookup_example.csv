@@ -1,0 +1,12 @@
+StudentID,Name,Marks,Grade
+101,Ali,85,A
+102,Sara,92,A+
+103,Ahmed,78,B
+104,Ayesha,88,A
+105,Usman,90,A+
+,,,
+Marks of student Using ID,,,
+ID_102,92,,
+,,,
+Name of student by IDNo,,,
+Ayesha,,,
