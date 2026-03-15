@@ -1,13 +1,15 @@
 
 
-Started on 19 January 26 - *CONTINUE ✅*
+*CONTINUED✅*
 
-Download and unzip the folder for the utilisation of the pdf materials. 
+Download and unzip the folder to utilise the PDF materials. 
 
-It will be updated after each weekend.
+It will be updated from time to time.
 
-# It is a special-purpose repository for IoT advanced solutions, Computer Applications, and Cloud computing, mainly targeting HSSC-1 FBISE Students.
+# It is a special-purpose repository for IoT advanced solutions, Computer Applications, and Cloud computing, mainly targeting HSSC-1 {Intermediate in Technologies} FBISE Students.
 
 *format of the file will be*
 
--> Subject | Lecture No | Lecture name 
+-> Subject | Lecture No | Lecture name
+
+-It is an open-source; feel free to enhance for a better understanding of students.
