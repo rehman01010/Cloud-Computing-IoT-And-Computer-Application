@@ -6,7 +6,7 @@ Download and unzip the folder to utilise the PDF materials.
 
 It will be updated from time to time.
 
-# It is a special-purpose repository for IoT advanced solutions, Computer Applications, and Cloud computing, mainly targeting HSSC-1 {Intermediate in Technologies} FBISE Students.
+# It is a special-purpose repository for advanced IoT solutions, Computer Applications, and Cloud computing, mainly targeting HSSC-1 {Intermediate in Technologies} FBISE Pakistan Students.
 
 *format of the file will be*
 
